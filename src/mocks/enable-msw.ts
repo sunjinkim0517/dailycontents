@@ -1,4 +1,4 @@
-// Top-Level Await 사용. Vite는 지원함.
+// src/mocks/enable-msw.ts
 const useMSW =
   import.meta.env.DEV &&
   String(import.meta.env.VITE_USE_MSW ?? "true").trim().toLowerCase() === "true";

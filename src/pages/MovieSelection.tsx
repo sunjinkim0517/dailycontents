@@ -107,7 +107,7 @@ export default function MovieSelection() {
             textShadow: "3px 3px 6px rgba(0,0,0,0.3)",
             fontWeight: "bold"
           }}>
-            🎬 CGV 영화 예매
+            🎬 영화 예매
           </h1>
           <p style={{
             fontSize: "1.5em",
